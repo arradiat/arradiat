@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mame Diarra but you can call me Mame
 - 👀 I’m interested in quantitative finance, machine learning, deep learning and how we can use the 2 last cited in the first one 
-- 🌱 I’m currently a final year graudate student ( expected graduation date 10/2021)
+- 🌱 I’m currently a final year graduate student ( expected graduation date 10/2021)
 - 💞️ I’m looking to collaborate on anything that is related to the fields i cited above
 - 📫 you can reach me at mametoure25@gmail.com
 <!---
